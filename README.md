@@ -1,4 +1,8 @@
 new_project_template
-====================
+==============
 
-vanilla template with bootstrap, mustache, cookie
+Vanilla template with some of my favs:
+- bootstrap
+- jquery cookie
+- jquery mustache
+- what else?
